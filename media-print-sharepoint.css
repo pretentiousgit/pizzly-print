@@ -1,0 +1,126 @@
+@media print{
+#feedbackBox{
+display:none;}
+
+#headerNav{
+display:none;}
+
+#header{
+display:none;}
+
+.topSiteMap{
+display:none;}
+
+.ms-buttonheightwidth2{
+display:none;}
+
+.ms-buttonheightwidth{
+display:none;}
+
+.ms-banner{
+display:none;}
+
+.ms-searchform{
+display:none;}
+
+.ms-titlearearight{
+display:none;}
+
+.ms-titlearealeft{
+display:none;}
+
+.ms-areaseparatorcorner{
+display:none;}
+
+.ms-areaseparatorright{
+display:none;}
+
+.ms-rightareacell{
+display:none;}
+
+.ms-areaseparatorleft{
+display:none;}
+
+.ms-siteaction{
+display:none;}
+
+.ms-globallinks{
+display:none;}
+
+.ms-leftareacell{
+display:none;}
+
+#AsynchronousViewDefault_CalendarView{
+width:1145px;
+}
+
+#WPQ2_nav_next_a {
+	display:none;
+}
+#WPQ2_nav_prev_a{
+	display:none;
+}
+
+.ms-acal-month { /*this controls the table which is in no way related to the event sub-boxes */
+ margin-top:25px;
+ margin-left:-10px;
+ 
+}
+
+.ms-acal-display {
+	top: -70px; position:absolute; font-size:24px;
+	left: 0px;
+	padding-top:75px;
+}
+
+ .ms-acal-rootdiv * { /* this controls the box that structures the event sub-boxes. */
+ *OVERFLOW: visible !important;
+ }
+ .ms-acal-item {
+ *OVERFLOW: visible !important;
+  font-size:13pt;
+  padding:3px !important;
+  margin-bottom:15px;
+  }
+
+button {
+display:none;
+}
+
+.ms-acal-month-top {
+font-size: 1.4em;
+
+}
+ .ms-acal-mdiv a {
+ font-size:13pt;
+ background:gray;
+ letter-spacing:0.02em;
+  margin-bottom:15px;
+  padding-bottom:15px;
+
+ }
+ 
+
+.ms-acal-summary-itemrow {
+}
+
+.ms-acal-summary-dayrow td div{
+background-color:#000 !important;
+}
+
+
+.s4-wpTopTable {
+	margin:0px;
+	overflow:visible !important;
+	border: none !important;
+}
+
+.s4-notdlg {
+	display:none;
+	}
+}
+
+.WebPartWPQ2 {
+	overflow:visible !important;
+}
+ }
